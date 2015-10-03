@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\pre-dexed\debug\classes-b703d79c5483e64696d5e0f4474bc1c8e62ebf3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\pre-dexed\debug\classes-c70694a9634307808b5a3286ae50238c9df0bf2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-2302883812a66e53839e147773c1417b50767cc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neksze\AndroidStudioProjects\Json\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\pre-dexed\debug\gson-2.3.1-275235e424da8fa267d722277f618ee8adcb9a86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neksze\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Neksze\AndroidStudioProjects\Json\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-5318152857c64f835536673074c61cffe1a8c603.jar" />
+    </item>
+
+</items>
